@@ -50720,6 +50720,7 @@ ActionBaseClipName
 ActionBaseClipWeight
 ActionBlendInDuration
 ActionBlendOutDuration
+actionbranch
 ActionBranchSet
 ActionBuffer
 actionc_bguy2
@@ -50744,6 +50745,7 @@ ActionModeOnly
 ActionModeState
 ActionModeTime
 ActionProbeTest
+actionprompt
 ActionPromptLabel
 ActionResult
 ActionResultId
@@ -51757,6 +51759,7 @@ additionalVfxWaterSamples
 AdditionalWindscreenRagdollForceFwd
 AdditionalWindscreenRagdollForceUp
 AdditionalZFromRootBoneFallback
+additive
 Additive
 ADDITIVE
 additiveBlend
@@ -53053,6 +53056,7 @@ agufus_lightdummy_04
 agufus_lightdummy_06
 ah_here_we_are_arthur
 aHealthConfig
+ai
 Ai
 AI
 AI_ATTITUDE_Combative
@@ -57982,6 +57986,7 @@ AimingRight
 AimingSettings
 AimingToggled
 AimingVariationClipSets
+aiminterrupt
 AimIntroActionHolsteredOverrideClipSetHash
 AimIntroActionSniperHolsteredOverrideClipSetHash
 AimIntroActionSniperUnholsteredOverrideClipSetHash
@@ -58206,6 +58211,7 @@ AllInOrder
 allison
 AllLockData
 AllLods
+allow
 Allow
 allow_chest_looting
 ALLOW_DOG_FIGHTING
@@ -58263,6 +58269,7 @@ allowDuplicateCategories
 allowDuplicates
 AllowEarlyDoorAndSeatUnreservation
 AllowEarlyExitFromFireAnimAfterBulletFired
+allowed
 ALLOWED_TO_AVOID_OFFROAD_DURING_VEHICLE_CHASE
 AllowedActions
 AllowedDuringMelee
@@ -90366,6 +90373,7 @@ AnimatedWaterSampleBuoyancyMult
 AnimatedWaterSampleOffset
 AnimatedWaterSampleSize
 AnimateIntensity
+animateobject
 AnimateOpacity
 AnimateRadius
 animation
@@ -92811,6 +92819,7 @@ ArmCompensationWeights
 armdamping
 armedAIEarlyOutPhase
 ArmIkSocketBones
+arml
 ArmL
 arml_fr1_000_full
 arml_fr1_000_full.ydd
@@ -92820,6 +92829,8 @@ arml_mr1_000_fullsleeve_buttoned
 arml_mr1_000_fullsleeve_buttoned.ydd
 arml_mr1_000_fullsleeve_unbuttoned
 arml_mr1_000_fullsleeve_unbuttoned.ydd
+armlblendin
+armlblendout
 armor
 armorbullet
 armoredcar01x
@@ -92843,6 +92854,7 @@ armourstrength
 armperiod
 armphase
 ArmpitAttachPoint
+armr
 ArmR
 armr_fr1_000_elbow_merge
 armr_fr1_000_elbow_merge.ydd
@@ -92860,6 +92872,8 @@ armr_mr1_000_rolledup_elbow_merge
 armr_mr1_000_rolledup_elbow_merge.ydd
 armr_mr1_000_rolledup_forearm_merge
 armr_mr1_000_rolledup_forearm_merge.ydd
+armrblendin
+armrblendout
 armrdau
 armrgore_fr1_000
 armrgore_fr1_000.ydd
@@ -96604,6 +96618,7 @@ AttachPart
 AttachPed
 AttachPedPelvisOffsetSpringConstant
 AttachPedPelvisOffsetSpringDampingRatio
+attachpoint
 attachPoint
 AttachPoint
 AttachPointInfos
@@ -103779,6 +103794,7 @@ BackupContent
 BackupCopMaxDistanceFromTarget
 BackupData
 backupInventory
+backupweapon
 Backward
 backwardsleancutoff
 baction
@@ -108882,6 +108898,7 @@ blendback
 BlendClip
 blendColor
 blendDistance
+blendduration
 blendDuration
 BlendDuration
 BlendDurationForEarlyOut
@@ -108894,6 +108911,7 @@ BlendInDelta
 BlendInDeltaForPed
 BlendInDeltaForProp
 blendIndices
+blendinduration
 blendInDuration
 BlendInDuration
 BlendInDurationForCarryingAim
@@ -108925,6 +108943,7 @@ BlendOutAtInterrupt
 BlendOutDelayBalanceFailed
 BlendOutDelayStanding
 BlendOutDelta
+blendoutduration
 blendOutDuration
 BlendOutDuration
 BlendOutIfNoPossibleEventExit
@@ -109330,6 +109349,7 @@ blockCover
 BlockCover
 BlockCoverfinderFallbackPoints
 BlockDragInjured
+blocked
 BlockedByNearbyScenariosRange
 BlockedByPlayer
 BlockedEntryPointsArray
@@ -109652,6 +109672,7 @@ bloodsampler
 bloodsamplervs
 BloodSpecExponent
 BloodSpecIntensity
+bloodvfx
 BloodyThreshold
 bloodzoneadjust
 Bloom01
@@ -123189,9 +123210,11 @@ Cameras
 CameraSceneOriginOffset
 cameraSettings
 CameraSettings
+camerashake
 CameraShake
 camerashrink
 CameraSkipWaitingForTurretAlignment
+camerastate
 CameraTarget
 cameraTilt
 CameraType
@@ -123708,6 +123731,7 @@ CAnimSceneSection
 CAnimSceneVehicle
 CAnimSpeedUps__Tunables
 CanIncludeSupporter
+caninterrupt
 CanInterrupt
 CanInterruptOthers
 CanInterruptSelf
@@ -128705,14 +128729,17 @@ CLassoAttachment
 CLassoAttachPoint
 CLassoDataManager
 CLassoTuneInfo
+clavicle
 clavicle_left
 clavicle_right
 claviclebias
 clavicleblend
 ClavicleImpulseScale
 ClavicleIn
+claviclel
 ClavicleL
 ClavicleOut
+clavicler
 ClavicleR
 claviclescale
 ClavicleStrength
@@ -132839,11 +132866,11 @@ ClipSetForRuns
 ClipSetForRunsV1
 ClipSetForRunsV2
 ClipSetHash
+clipsetid
 clipsetId
 ClipsetId
 ClipSetId
 clipsetId
-ClipsetId
 ClipSetId
 ClipSetId1h
 ClipSetId2h
@@ -157824,6 +157851,7 @@ CriticalDamageDistanceNear
 CriticalDamageModifier
 CriticalDamageModifierFar
 CriticalDamageModifierNear
+criticalframe
 CriticalHitChanceModifier
 criticalRansackModelNames
 CriticalRegions
@@ -208713,6 +208741,8 @@ damage_model_wood_share_06
 damage_model_wood_shotgun
 DamageAmountMinMax
 DamageAndReaction
+damageandreactionid
+damageandreactionname
 damageAtCentre
 damageAtEdge
 damageAtMid
@@ -208807,6 +208837,9 @@ DangerousLookingMeleeWeapon
 danglyPartProps
 danse_tzigane_70bpm.awc
 danny_lee
+dar_armed_melee
+dar_knife
+dar_light
 dark smoke
 dark_alley_bum.awc
 DarkGlowIntensity
@@ -211730,6 +211763,7 @@ DestinationSlot
 DestInteriorHash
 DestKey
 DestRoomIdx
+destroy
 Destroy
 DestroyableComponentTunables
 DestroyableCoverHelpers
@@ -211743,6 +211777,7 @@ DestroyOrConvertAtEndOfPickup
 DestroyPropInsteadOfDrop
 DestroyTagId
 DestroyWhenOrderRemoved
+detach
 DetachExitDefaultPhaseThreshold
 DetachFromDraftVehicleFirst
 DetachOnCleanUp
@@ -213959,6 +213994,7 @@ DoesntCollideWithRagdolls
 DoesntCollideWithVehicles
 DoesntRequireTarget
 DoesRevivableDamage
+dof
 DoF
 DOF_OUTPUT_ALPHA_ONLY
 DOF_OUTPUT_COLOR_NO_ALPHA
@@ -213966,6 +214002,7 @@ DOF_OUTPUT_COLOR_WITH_ALPHA
 dofAlphaOutputMultiplier
 dofId
 DoFinalHeadingFixUp
+dofname
 DofName
 dofOutputMode
 DoFPHeadUpSlopeRejectionTest
@@ -214748,6 +214785,7 @@ DriveByTransitionRateSpeedUp
 DrivebyTransitionTypeIndices
 DriveByUpperBodyOnly
 DrivebyWeaponGroups
+driveinterrupt
 DRIVER_RULES_STD_FILE
 DRIVER_SEAT_RELATIVE
 driverAsset
@@ -215303,6 +215341,7 @@ EASE_SINE_IN
 EASE_SINE_INOUT
 EASE_SINE_OUT
 EaseIn
+easeinout
 EaseOut
 EaseType
 Easing
@@ -220004,6 +220043,7 @@ EQUAL
 EqualizeAmount
 eQuickSelectItemType
 eQuickSelectProviderId
+equip
 Equip
 EQUIP_ITEM
 EquipBestWeapon
@@ -220018,6 +220058,7 @@ EquipPlaceholderOutfit
 equipsets
 equipsets2
 EquipThisWeapon
+equipweapon
 EquipWeapon
 EquipWeaponEnRouteToScenario
 eRadarMode
@@ -221185,6 +221226,7 @@ ExitDistance
 exitfast
 exitidle_dutch
 exitidle_genmale1
+exitinterrupt
 ExitMotions
 ExitPitchSpeedModifier
 ExitPoints
@@ -225856,8 +225898,10 @@ FacialClipSetId
 FacialData
 FacialGestureClipSetId
 facialHair
+facialmood
 FacialMood
 FacialMoodPriority
+facialoneshot
 FacialOneShot
 facials@gen_male@scenario@drinkbottle
 facials@gen_male@scenario@drinkhand
@@ -225867,6 +225911,8 @@ facials@gen_male@scenario@smokecig
 facials@gen_male@scenario@wipeface
 Facing
 FacingAngleToScalePromptRadius
+facingdir
+facingdirection
 FacingDownSlopeOffsetScaler
 FacingScoreModifier
 FacingUpSlopeOffsetScaler
@@ -227927,6 +227973,7 @@ FILTER_SEASON_SPRING
 FILTER_SEASON_SUMMER
 FILTER_SEASON_WINTER
 FilterFlags
+filterid
 FilterId
 FilterName
 Filters
@@ -228995,7 +229042,10 @@ fInfluenceSphereCheckRouteRadius
 fInfluenceSphereInnerWeight
 fInfluenceSphereOuterWeight
 fInfluenceSphereRequestRadius
+fingers
+fingersl
 FingersL
+fingersr
 FingersR
 finish
 FinishBlendDuration
@@ -230656,10 +230706,12 @@ FontOutlineMinMaxDepth
 FontSize
 foodbarrels
 foodbarrels+hi
+foot
 foot_left
 foot_right
 footer
 FootFastMovementZoom
+footfixup
 footfriction
 FootIKTargetBoneTag
 footInfoName
@@ -230865,7 +230917,10 @@ ForceUseRightHandleAnims
 ForceVerticalGutterSpace
 ForceWindmill
 ForciblyChangingCrouchState
+forearm
+forearml
 ForearmL
+forearmr
 ForearmR
 foreman
 FOREMAN
@@ -231910,6 +231965,7 @@ fud1.awc
 fud1aud
 fud2aud
 fufu_pvg
+full
 full_drunk_action.awc
 FullAngle
 fullBlendHeadingInterpRate
@@ -246937,6 +246993,7 @@ handdistancevertical
 HandGunDamageMod
 HandHeldDrop
 handIndex
+handl
 HandL
 handl_mr1_000
 handl_mr1_000.ydd
@@ -246971,6 +247028,7 @@ HandlingName
 handlingType
 handover
 handover_cam
+handr
 HandR
 handr_fr1_000_full_merge
 handr_fr1_000_full_merge.ydd
@@ -252644,6 +252702,8 @@ HeadAndBrain
 HeadAndNeck
 headband_fr1_000_merge
 headband_fr1_000_merge.ydd
+headblendin
+headblendout
 headdamping
 HeadDeltaLimits
 header
@@ -252889,6 +252949,7 @@ HeavyBrakeYAcceleration
 hector
 hector_fellowes
 hector_fellowes.awc
+heel
 heels
 height
 Height
@@ -259456,6 +259517,7 @@ highhighfallstart
 HighHighFallStart
 HighImpact
 HighImportanceModifier
+highintensityreact
 HighIntensitySprintIntentionThreshold
 HighJumpMaxAngleForVelScale
 HighJumpMaxVelScale
@@ -259630,6 +259692,7 @@ hnt6aud
 hntn_shaman
 hntnaud
 hobart_crawley.awc
+hogtie
 Hogtie
 HogtieActionDataSetDatas
 HogtieActionDataSetSelectors
@@ -259670,6 +259733,7 @@ HollowPoint
 HolsterAttachPoint
 HolsteringWeaponAttachPoint
 HolsteringWeaponType
+holsterpoint
 holsterPoint
 HolsterProcessClipId
 holsters_center
@@ -259680,6 +259744,7 @@ HolsterSecondary
 HolsterType
 HolsterType_Any
 HolsterType_High
+holsterweapon
 HolsterWeapon
 HolsterWhenInvalid
 home
@@ -266790,9 +266855,13 @@ iHiddenObjectCount
 iHighestLevel
 iId
 iInterior
+ik
 IK_dside_seat_feet
 IK_pside_seat_feet
+ikadvanced
 IKAllowClavicleAdjustment
+ikarml
+ikarmr
 IkBaseBoneOffsets
 IkCoverAimAIHardCover
 IkCoverAimAISoftCover
@@ -266809,6 +266878,8 @@ IkFlags
 IkHorsebackDefault
 IkHorsebackDefaultLongArm
 IkLeft
+ikleftarm
+iklefthand
 IkLightSource
 IKOffset
 IkRecoilDisplacement
@@ -266817,7 +266888,9 @@ IkRecoilDisplacementScaleVertical
 IkRecoilDisplacementScope
 IkRecoilInfo
 IkRecoilInfos
+ikrighhand
 IkRight
+ikrightarm
 IkRunAndFireLongArm
 IkRunAndFireShortArm
 IkRunAndGunLongArm
@@ -271331,6 +271404,7 @@ IsCarryingLootAction
 IsCasual
 iScenarioGroup
 IsChild
+isclipname
 iscoat
 IsCollisionEnabled
 isComplete
@@ -285737,6 +285811,7 @@ KeepMoverVerticalWhileAttached
 KeepMovingWhilePathingDistance
 KeepOnHeadProp
 KeepPrimaryWeapon
+keepprimaryweapon
 keepProgressOnItemLoss
 KeepWeapon
 KeepWeaponEquipped
@@ -292156,6 +292231,7 @@ latFricFront
 latFricRear
 latino
 Launched
+launchinteraction
 LaunchLeftBikeClipId
 LaunchLeftCharClipId
 LaunchPitchCorrectionMax
@@ -293090,6 +293166,7 @@ leginjuryliftspinebend
 leginjuryspinebend
 leginjurytime
 legl
+legl
 LegL
 legl_fr1_000_highboot
 legl_fr1_000_highboot.ydd
@@ -293101,6 +293178,7 @@ leglifttime
 leglimpbend
 legnoisescale
 legperiod
+legr
 LegR
 legr_fr1_000_full_merge
 legr_fr1_000_full_merge.ydd
@@ -293154,6 +293232,7 @@ lengthMult
 LengthMultiplier
 lengthScale
 LengthScaling
+lens
 lens_water_drop
 LensArtefact
 LensArtefactMultiplier
@@ -297220,6 +297299,7 @@ line02
 line03
 line04
 line05
+linear
 LINEAR
 LinearScores
 LinearVZForBrakingDifferenceMax
@@ -298035,6 +298115,8 @@ loco_weapon_moonshinejug
 LocoAngleInterpRate
 LocoArchetypes
 LocoDescriptors
+locoidlereact
+locointerrupt
 locomotion
 locomotion_animal_dualmotionblend
 locomotion_horse_withcustominput
@@ -298050,6 +298132,7 @@ locomotioninline_handposition
 locomotioninline_withdualcustominput
 locomotioninline_withsinglecustominput
 locomotionrearup
+locomovingreact
 LocoTypeChangeDefault
 LocText
 locust.awc
@@ -298666,6 +298749,7 @@ LookBackApproachSpeedScale
 LookBehindOutroTimeMS
 LookBehindRelativeAttachPosition
 LookBehindSpeedModifier
+lookik
 LOOKIK_ARM_COMP_FULL
 LOOKIK_ARM_COMP_IK
 LOOKIK_ARM_COMP_LOW
@@ -298700,6 +298784,7 @@ LOOKIK_TURN_RATE_NORMAL
 LOOKIK_TURN_RATE_SLOW
 LookIkArmCompensation
 LookIkBlendRate
+lookikcontrol
 LookIkHeadAttitude
 LookIkReferenceDirection
 LookIkRotationLimit
@@ -298726,6 +298811,7 @@ LookOverSettings
 LookSequence
 LookSequenceItem
 LookSequencePreset
+looktarget
 lookup
 LookUps
 loon_near_01.awc
@@ -299216,6 +299302,7 @@ LowLodPhysicsPitchIdealApproachRate
 LowLodWalkHeadingLerpRate
 LowOffsetCapsuleLength
 LowOffsetCapsuleRadius
+lowpriority
 LowPriority
 LowPriorityCategoryStart
 lowProbability
@@ -307371,6 +307458,7 @@ MaxUsesForIdleVariationChange
 MaxUsesForOutroReactVariationChange
 MaxUsesForPeekingVariationChange
 MaxUsesForPinnedVariationChange
+maxvalue
 maxValue
 MaxValue
 MaxValueForCorrection
@@ -317459,6 +317547,7 @@ mech_skin@pelt_m@horse_satchel@stow@lt@tuck
 mech_skin@pelt_m@horse_satchel@stow@lt@tuck.ycd
 mech_skin@pelt_m@horse_satchel@stow@lt@tuck@enter
 mech_skin@pelt_m@horse_satchel@stow@rt@toss
+mech_skin@pelt_m@horse_satchel@stow@rt@toss.ycd
 mech_skin@pelt_m@horse_satchel@stow@rt@toss@enter
 mech_skin@pelt_m@horse_satchel@stow@rt@tuck
 mech_skin@pelt_m@horse_satchel@stow@rt@tuck.ycd
@@ -317482,7 +317571,6 @@ mech_skin@pelt_ml@horse_satchel@stow@lt@tuck@base
 mech_skin@pelt_ml@horse_satchel@stow@lt@tuck@enter
 mech_skin@pelt_ml@horse_satchel@stow@rt@toss
 mech_skin@pelt_ml@horse_satchel@stow@rt@toss.ycd
-mech_skin@pelt_m@horse_satchel@stow@rt@toss.ycd
 mech_skin@pelt_ml@horse_satchel@stow@rt@toss@base
 mech_skin@pelt_ml@horse_satchel@stow@rt@toss@enter
 mech_skin@pelt_ml@horse_satchel@stow@rt@tuck
@@ -324444,6 +324532,7 @@ MeleeApproach
 MeleeBaseClipSetHash
 MeleeBlade
 MeleeBladeLong
+meleeblock
 MeleeBlockingMovementMBR
 MeleeCardinalFatalAttackCheck
 MeleeClipSetHash
@@ -331549,6 +331638,7 @@ Minute
 minutes
 Minutes
 MinutesToToast
+minvalue
 minValue
 MinValue
 MinValueForCorrection
@@ -334307,10 +334397,12 @@ MoodAimingRifle
 moodangry
 MoodAngry
 MoodAngryInjured
+moodbitchy
 MoodBitchy
 MoodBlizzard
 MoodBlizzrdFrozen
 MoodBracing
+moodbrave
 MoodBrave
 MoodBucking
 MoodCalmHorse
@@ -334319,7 +334411,9 @@ moodcarrylarge
 MoodCarryLarge
 MoodCautious
 MoodCharging
+moodchoked
 MoodChoked
+moodchokedmild
 MoodChokedMild
 MoodChokedRear
 moodcocky
@@ -334329,6 +334423,7 @@ moodcombatmedium
 MoodCombatMedium
 moodcombatmild
 MoodCombatMild
+moodconcentration
 MoodConcentration
 MoodConcentrationExtreme
 moodconfused
@@ -334343,19 +334438,24 @@ MoodDancingMed
 mooddead
 MoodDead
 MoodDeadAndMouthLooted
+mooddefuse
 MoodDefuse
 mooddisgust
 MoodDisgust
 MoodDrowning
+mooddrunkextreme
 MoodDrunkExtreme
 mooddrunkmedium
 MoodDrunkMedium
+mooddrunkmild
 MoodDrunkMild
 MoodElectrocution
 MoodExcited
 moodexertionextreme
 MoodExertionExtreme
+moodexertionmedium
 MoodExertionMedium
+moodexertionmild
 MoodExertionMild
 moodexhausted
 MoodExhausted
@@ -334370,6 +334470,7 @@ moodhappy
 MoodHappy
 MoodHash
 MoodHot
+moodid
 MoodInjured
 MoodInjuredExtreme
 moodinjuredmedium
@@ -334442,12 +334543,14 @@ MoodStopping
 moodstressed
 MoodStressed
 MoodSubmissive
+moodsulk
 MoodSulk
 MoodSwamp
 MoodSwim
 MoodTalking
 moodtalkinghappy
 MoodTalkingHappy
+moodtired
 MoodTired
 moodtiredmild
 MoodTiredMild
@@ -335480,9 +335583,13 @@ MoveNetworkID4
 MoVENetworkName
 MoveNetworkType
 MoveParameters
+mover
 moveradius
 MoveRateOverride
+moverfixup
 MoverFixupData
+moverspeed
+movespeed
 MoveSpeed
 MoveSpeeds
 MoveSpeedsClips
@@ -382441,6 +382548,7 @@ nameHash
 NameHash
 NameHashOfGarage
 NameHasToBeDiscovered
+nameid
 nameId
 NameLabel
 NameOfScriptTextLine
@@ -382456,6 +382564,7 @@ napkin
 napoleon_cannon
 nArmour
 narrow
+narrowest
 nas
 nasal
 nasal.awc
@@ -409620,8 +409729,10 @@ objectAngularVelocitySquaredDamping
 objectbehindvictim
 objectCentreOfMassOffset
 ObjectConfigs
+objectexchange
 objectFlags
 objectHash
+objectid
 ObjectId
 objective
 objective_area
@@ -410066,6 +410177,7 @@ OffhandBackSwapPairSet
 OffhandShoulderRifleDirectSwapPairSet
 OffhandShoulderSwapPairSet
 OffhandThisWeapon
+offhandweapon
 offset
 Offset
 Offset_1Left
@@ -410738,6 +410850,7 @@ onfire
 OnFireWeightingMult
 onfloor
 OnFocusedBindings
+onfoot
 onFoot
 OnFoot
 onfootadditiveshakes
@@ -437913,7 +438026,9 @@ pai01pr_combo_slod_children.ydd
 PaidPacks
 pain_1
 pain_death_04
+pain_gargle
 pain_high
+pain_low
 pain_shove
 paint-0-matte_01
 paint-0-matte_02
@@ -442923,6 +443038,7 @@ PELT_SIZE_MEDIUMSMALL
 PeltInfo
 pelts
 pelts_sliced
+pelvis
 Pelvis
 pelvis_fr1_000_full
 pelvis_fr1_000_full.ydd
@@ -442930,13 +443046,16 @@ pelvis_fr1_000_half
 pelvis_fr1_000_half.ydd
 pelvis_mr1_000_knees
 pelvis_mr1_000_knees.ydd
+pelvisblendout
 PelvisBlendRate
+pelviscounter
 PelvisCounter
 PelvisCounterWeightBow
 PelvisIn
 PelvisInterp
 PelvisInterpMoving
 PelvisInterpOnDynamic
+pelvisloco
 PelvisLoco
 PelvisLocoWeightBow
 PelvisOffsetAngle
@@ -445125,6 +445244,7 @@ Platforms
 platforms.ytyp
 platforms+hi
 platId
+play
 playbackBehaviour
 PlaybackCameraRef
 playbackList
@@ -457218,9 +457338,12 @@ PosDelta_ClosePosDelta
 PosDelta_FarDist
 PosDelta_FarPosDelta
 pose
+poseblendduration
+poseblendin
 PoseBreakoutArchetypes
 PoseBreakoutOverride
 PoseBreakoutOverrides
+posefixup
 PoseFixup
 PoseMatcherName
 PoseMatcherProneName
@@ -458883,6 +459006,7 @@ proc_stick_03
 proc_trolley_lakebed
 proc_tyre_lakebed
 proc_watermeloneaten01x
+procedural
 ProcessDestroyFromPerformer
 ProcessEarlyReleaseProbes
 ProcessGripAnim
@@ -459048,6 +459172,7 @@ PromptLabel
 PromptLngKey
 PromptLngKeyBindingContext
 PromptLngKeyConverter
+promptmeleeattack
 PromptOnlyBoneTags
 PromptOverrideProbeRadius
 PromptOverrideSubstring
@@ -478551,6 +478676,7 @@ ReactedToLoiteringClose
 ReactedToPlayerNearbyShortRange
 ReactedToStaring
 ReactingPed
+reaction
 Reaction
 ReactionActionLayers
 ReactionActionWeightMultiplierTemplate
@@ -479722,6 +479848,7 @@ relaxperiodlower
 relaxperiodupper
 reld.awc
 reldaud
+release
 release_thrown
 RELEASED
 ReleaseDelay
@@ -480024,6 +480151,7 @@ RequiresLOS
 RequiresPickingUpAnim
 RequiresTarget
 RequiresWeapon
+requiretarget
 RequireTargetInRagdoll
 RequireWeaponAvailableInDefaultLoadout
 rerd.awc
@@ -497658,6 +497786,8 @@ sb_companion_hunt06a
 sb_companion_hunt06a.ymap
 sb_companion_rustle01
 sb_companion_rustle01.ymap
+sb_left_arm
+sb_right_arm
 sba_glue_002
 sba_glue_002+hidr
 SBA_IGNORE_VALIDATION
@@ -520081,6 +520211,7 @@ SecondaryTexture
 SecondaryTextureDictionary
 secondaryTimecycleName
 SecondaryVariations
+secondaryweapon
 SecondDoorBoneName
 SecondMemory
 seconds
@@ -526806,6 +526937,7 @@ SpinAxis
 SpinClockwiseDuringFire
 SpinClockwiseDuringReload
 SpinDownTime
+spine
 Spine
 spine0
 Spine0
@@ -526824,6 +526956,8 @@ spineamplitude
 spinebend
 spineblend
 spineblendexagcpain
+spineblendin
+spineblendout
 spineblendzero
 spinedamping
 SpineFacingAdditiveInterpRate
@@ -536570,6 +536704,7 @@ TargetDistanceWeightingMax
 TargetDistanceWeightingMin
 Targeted
 TargetedPed
+targetentity
 targetEntity
 TargetEntity
 targetEntityIsPotentialThreat
@@ -536585,6 +536720,7 @@ TargetFwdDeltaFromDirectFacingWeight
 TargetHeading
 TargetHeadingSpeed
 TargetHeadingWeighting
+targetid
 targetId
 TargetInfluenceSphereRadius
 TargetingPed
@@ -536656,6 +536792,7 @@ TargetSwapOutfitTags
 TargetTakeIsUnsynced
 targetType
 TargetType
+targetvalue
 targetValue
 TargetValue
 targetValueMax
@@ -539254,6 +539391,7 @@ TimerSet
 Times
 times_bonus_objective_active
 times_bonus_objective_failed
+timescale
 TimeScale
 TimeScaleCockRateModifier
 TimeScaled
@@ -540147,9 +540285,11 @@ translate/translate_journal_textfield_template
 translate/translate_minigame
 translate/translate_minigame_text_with_cards_template
 translate/translate_newspaper
+translation
 Translation
 TranslationChangeRate
 TranslationLimits
+translationonly
 TranslationSpeed
 Translator
 translucency
@@ -540177,6 +540317,9 @@ TransportValidatePointFullSpeed
 TransportValidatePointIdle
 TransToAim_SpringOn
 TransToSwing_SpringOff
+transx
+transy
+transz
 trap_door
 trapdoor
 trapp.awc
@@ -542153,6 +542296,7 @@ two_01_wagon02
 two_01_wagon02_lod
 two_01_wagon02+hidr
 two_01.ymap
+twohanded
 TwoHanded
 TwoHandedClipSetName
 TwoHandedCombatWeaponHoldingHash
@@ -552347,6 +552491,7 @@ UnholsterCleanupImmediately
 UnholsterClipData
 UnholsterClips
 UnholsterClipSetId
+unholsterweapon
 Unhook_DecideKeep
 Unhook_DecideRelease
 Unhook_Decision
@@ -552359,6 +552504,7 @@ UnhookReelRate
 UNIFORM
 UNIFORM_TO_FILL
 uniformScale
+uninterruptible
 unionsuit
 unionsuit_mr1_000_legs
 unionsuit_mr1_000_legs.ydd
@@ -552593,6 +552739,7 @@ upper_arm_left
 upper_arm_right
 upper_m
 upper_nm
+upperarm
 UpperArmImpulseCap
 UpperArmNoTorsoHitImpulseCap
 UpperArmTranslationBias
@@ -552616,6 +552763,7 @@ UpperBodyTemplate
 UpperBound
 UpperBoundGroup
 UpperBoundHours
+upperfixup
 uppergore_mangled_mr1_000
 uppergore_mangled_mr1_000.ydd
 uppergore_mangled_mr1_001
@@ -555106,6 +555254,7 @@ UseAdditiveFiring
 UseAgitatorEntityOfInterest
 useAlphaThreshold
 UseAlternateFPDrivebyClipset
+usealternateholster
 UseAlternateHolster
 UseAmbientScaling
 UseAmbientScannerToLand
@@ -567610,6 +567759,7 @@ VFXLIQUID_TYPE_WATER
 VFXLIQUIDINFO_FILE
 VfxMaps
 VFXMATERIALINFO_FILE
+vfxname
 vfxName
 VfxName
 VfxOffset
@@ -575516,6 +575666,7 @@ weaponForceMult
 WEAPONFX_FILE
 WeaponGroup
 WeaponGroupDamageForArmouredVehicleGlass
+weapongroupid
 WeaponGroupModifierBow
 WeaponGroupModifierShotgun
 WeaponGroupModifierSniper
@@ -575537,6 +575688,7 @@ WeaponHoldingFilterId
 WeaponHoldingGroups
 WeaponHoldingHash
 WeaponHolsterPoint
+weaponid
 WeaponIdleDiscardPairSet
 WeaponIdleReloadClipId
 WeaponIdleReloadEmptyClipId
@@ -575557,6 +575709,7 @@ WeaponLowCoverReloadEmptyClipId
 WeaponLowLeftCoverReloadClipId
 WeaponLowRightCoverReloadClipId
 WeaponMustBeEquippedForHogtiePromptForKnockedOutTarget
+weaponname
 weaponName
 WeaponName
 WeaponNM
@@ -575569,6 +575722,7 @@ WeaponPickupChance
 WeaponPickupPropId
 WeaponPose
 WeaponPropClipSet
+weaponpropid
 WeaponRange
 WeaponRangeInVehicle
 WeaponRanges
@@ -575940,6 +576094,7 @@ why
 wide
 wider
 WideShot
+widest
 WideTargetAngularLimit
 width
 Width
@@ -584819,6 +584974,7 @@ XLarge
 XLeftInputs
 XMax
 XMax_YVal
+xoffset
 XOffset
 XPadding
 XPG2
@@ -589047,6 +589203,7 @@ YForwardZUp
 yHotspot
 yield
 YInputs
+yoffset
 YOffset
 you_think_we_are_pistol_p_lamp26x
 you_think_we_are_rifle_p_lamp26x
